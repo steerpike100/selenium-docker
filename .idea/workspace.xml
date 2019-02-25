@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7082bddf-74d6-4616-9a00-9c76936334e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/newtours/pages/FindFlightPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/newtours/pages/FlightConfirmationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/drivers/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/newtours/tests/BookFlightTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search-module.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/searchmodule/pages/SearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/searchmodule/tests/SearchTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/newtours/pages/FlightDetailsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/newtours/pages/FlightDetailsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/newtours/pages/RegistrationConfirmationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/newtours/pages/RegistrationConfirmationPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/newtours/pages/RegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/newtours/pages/RegistrationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/book-flight-module.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,25 +22,21 @@
     </SUITE>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/newtours/tests/BookFlightTest.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/search-module.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="41" column="57" selection-start-line="41" selection-start-column="57" selection-end-line="41" selection-end-column="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2343#2344#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="374">
+              <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testng.xml">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/book-flight-module.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+            <state relative-caret-position="476">
+              <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -75,6 +65,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/newtours/pages/RegistrationConfirmationPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/newtours/tests/BookFlightTest.java" />
         <option value="$PROJECT_DIR$/testng.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/searchmodule/pages/pages.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/searchmodule/pages/SearchPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/searchmodule/test/SearchTest.java" />
+        <option value="$PROJECT_DIR$/book-flight-module.xml" />
+        <option value="$PROJECT_DIR$/search-module.xml" />
       </list>
     </option>
   </component>
@@ -97,6 +92,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,6 +150,25 @@
               <item name="seleniumdocker" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="searchmodule" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seleniumdocker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seleniumdocker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="searchmodule" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seleniumdocker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seleniumdocker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -204,18 +219,36 @@
               <item name="newtours" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="seleniumdocker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seleniumdocker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="searchmodule" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seleniumdocker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seleniumdocker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="searchmodule" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551108280320" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551110942193" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -230,6 +263,7 @@
       <recent name="com.newtours.pages" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\udemy\seleniumdocker" />
       <recent name="C:\udemy\seleniumdocker\src\main\resources\drivers" />
     </key>
   </component>
@@ -245,7 +279,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/udemy/seleniumdocker/testng.xml">
+  <component name="RunManager" selected="TestNG.C:/udemy/seleniumdocker/book-flight-module.xml">
     <configuration name="BookFlightTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="udemy" />
       <extension name="coverage">
@@ -262,10 +296,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C:/udemy/seleniumdocker/book-flight-module.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="udemy" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/book-flight-module.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/udemy/seleniumdocker/search-module.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="udemy" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/search-module.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C:/udemy/seleniumdocker/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="udemy" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.searchmodule.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.searchmodule.test" />
+      <option name="MAIN_CLASS_NAME" value="com.searchmodule.tests.SearchTest" />
       <properties />
       <listeners />
       <method v="2">
@@ -293,9 +363,15 @@
       <item itemvalue="TestNG.defaultTestNG" />
       <item itemvalue="TestNG.BookFlightTest" />
       <item itemvalue="TestNG.C:/udemy/seleniumdocker/testng.xml" />
+      <item itemvalue="TestNG.SearchTest" />
+      <item itemvalue="TestNG.C:/udemy/seleniumdocker/search-module.xml" />
+      <item itemvalue="TestNG.C:/udemy/seleniumdocker/book-flight-module.xml" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/udemy/seleniumdocker/book-flight-module.xml" />
+        <item itemvalue="TestNG.C:/udemy/seleniumdocker/search-module.xml" />
+        <item itemvalue="TestNG.SearchTest" />
         <item itemvalue="TestNG.C:/udemy/seleniumdocker/testng.xml" />
         <item itemvalue="TestNG.BookFlightTest" />
       </list>
@@ -312,25 +388,11 @@
       <option name="presentableId" value="Default" />
       <updated>1551101663827</updated>
       <workItem from="1551101665229" duration="6553000" />
+      <workItem from="1551109276619" duration="1562000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BookFlightTest - 2019.02.25 at 14h 50m 34s.xml">
-      <configuration name="BookFlightTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="BookFlightTest - 2019.02.25 at 14h 52m 43s.xml">
-      <configuration name="BookFlightTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="BookFlightTest - 2019.02.25 at 14h 55m 09s.xml">
-      <configuration name="BookFlightTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="BookFlightTest - 2019.02.25 at 15h 01m 18s.xml">
-      <configuration name="BookFlightTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="BookFlightTest - 2019.02.25 at 15h 04m 17s.xml">
-      <configuration name="BookFlightTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="BookFlightTest - 2019.02.25 at 15h 08m 50s.xml">
       <configuration name="BookFlightTest" configurationId="TestNG" />
     </history-entry>
@@ -343,44 +405,62 @@
     <history-entry file="C__udemy_seleniumdocker_testng_xml - 2019.02.25 at 15h 17m 17s.xml">
       <configuration name="C:/udemy/seleniumdocker/testng.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="SearchTest - 2019.02.25 at 15h 58m 42s.xml">
+      <configuration name="SearchTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchTest - 2019.02.25 at 15h 59m 11s.xml">
+      <configuration name="SearchTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchTest - 2019.02.25 at 15h 59m 30s.xml">
+      <configuration name="SearchTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__udemy_seleniumdocker_search-module_xml - 2019.02.25 at 16h 04m 14s.xml">
+      <configuration name="C:/udemy/seleniumdocker/search-module.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__udemy_seleniumdocker_search-module_xml - 2019.02.25 at 16h 04m 37s.xml">
+      <configuration name="C:/udemy/seleniumdocker/search-module.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__udemy_seleniumdocker_book-flight-module_xml - 2019.02.25 at 16h 06m 00s.xml">
+      <configuration name="C:/udemy/seleniumdocker/book-flight-module.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6553000" />
+    <option name="totallyTimeSpent" value="8115000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32995737" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32995737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -445,18 +525,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/newtours/pages/FlightDetailsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1047#1048#0" expanded="true" />
-            <element signature="e#1085#1086#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/newtours/pages/FlightConfirmationPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -476,19 +544,61 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/newtours/tests/BookFlightTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="41" column="57" selection-start-line="41" selection-start-column="57" selection-end-line="41" selection-end-column="57" />
+        <state relative-caret-position="323">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="20" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2314#2315#0" expanded="true" />
             <element signature="e#2343#2344#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/newtours/pages/FlightDetailsPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+        <state relative-caret-position="374">
+          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/searchmodule/pages/SearchPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="54" column="37" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#965#966#0" expanded="true" />
+            <element signature="e#1023#1024#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/searchmodule/tests/SearchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book-flight-module.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search-module.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
         </state>
       </provider>
     </entry>
