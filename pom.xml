@@ -10,7 +10,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>org.seleniumhq</groupId>
+            <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
             <version>3.141.0</version>
         </dependency>
