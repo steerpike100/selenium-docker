@@ -20,7 +20,7 @@ public class RegistrationConfirmationPage {
 
     public RegistrationConfirmationPage(WebDriver driver) {
         this.driver = driver;
-        this.wait = new WebDriverWait(driver, 30);
+        this.wait = new WebDriverWait(driver, 120);
         PageFactory.initElements(driver, this);
     }
 

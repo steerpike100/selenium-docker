@@ -15,10 +15,12 @@ public class FlightDetailsPage {
     @FindBy(name = "passCount")
     private WebElement passengers;
 
+    @FindBy(name = "findFlights")
+    private WebElement submitBtn;
 
     public FlightDetailsPage(WebDriver driver) {
         this.driver = driver;
-        this.wait = new WebDriverWait(driver, 30);
+        this.wait = new WebDriverWait(driver, 120);
         PageFactory.initElements(driver, this);
     }
 
@@ -27,5 +29,10 @@ public class FlightDetailsPage {
         Select select = new Select(passengers);
         select.selectByValue(noOfPassengers);
     }
+
+    public void goToFindFlightsPage(){
+        this.submitBtn.click();
+    }
+
 }
 
