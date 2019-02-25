@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/GridDocker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TestDataProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/XmlAndJsonTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/automation-architect/DataDrivenFramework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/automation-architect/DataDrivenFramework_source" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rest-assured" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/twitterbot" vcs="Git" />
+  </component>
+</project>
