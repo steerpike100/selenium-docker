@@ -1,24 +1,22 @@
-package com.newtours.tests;
+package com.newtours;
 
 import com.newtours.pages.*;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+import com.test.BaseTest;
 import org.testng.Assert;
-import org.testng.annotations.*;
+import org.testng.annotations.Parameters;
+import org.testng.annotations.Test;
 
-public class BookFlightTest {
+public class BookFlightTest extends BaseTest {
 
-    private WebDriver driver;
     private String noOfPassengers;
     private String expectedPrice;
 
-    @BeforeTest
+
     @Parameters({"noOfPassengers", "expectedPrice"})
-    public void setUpDriver(String noOfPassengers, String expectedPrice) {
+    public void setUpParameters(String noOfPassengers, String expectedPrice) {
         this.noOfPassengers = noOfPassengers;
         this.expectedPrice = expectedPrice;
-        System.setProperty("webdriver.chrome.driver", "C:\\udemy\\seleniumdocker\\src\\main\\resources\\drivers\\chromedriver.exe");
-        this.driver = new ChromeDriver();
+
     }
 
     @Test
@@ -59,8 +57,5 @@ public class BookFlightTest {
 
     }
 
-    @AfterTest
-    public void quitBrowser() {
-        driver.quit();
-    }
+
 }

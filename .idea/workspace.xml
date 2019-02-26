@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7082bddf-74d6-4616-9a00-9c76936334e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/search-module.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/searchmodule/pages/SearchPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/searchmodule/tests/SearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/BaseTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/book-flight-module.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-flight-module.xml" beforeDir="false" afterPath="$PROJECT_DIR$/book-flight-module.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-module.xml" beforeDir="false" afterPath="$PROJECT_DIR$/search-module.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/newtours/tests/BookFlightTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/newtours/BookFlightTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/searchmodule/tests/SearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/searchmodule/SearchTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/search-module.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -35,8 +36,55 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/book-flight-module.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+            <state relative-caret-position="102">
+              <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/newtours/BookFlightTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/searchmodule/SearchTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/test/BaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#459#460#0" expanded="true" />
+                <element signature="e#488#489#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/newtours/pages/FindFlightPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -58,18 +106,21 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/newtours/pages/OrderConfirmationPage.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/newtours/pages/FindFlightPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/newtours/pages/FlightDetailsPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/newtours/pages/RegistrationPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/newtours/pages/FlightConfirmationPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/newtours/pages/RegistrationConfirmationPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/newtours/tests/BookFlightTest.java" />
         <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/searchmodule/pages/pages.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/searchmodule/pages/SearchPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/searchmodule/test/SearchTest.java" />
-        <option value="$PROJECT_DIR$/book-flight-module.xml" />
         <option value="$PROJECT_DIR$/search-module.xml" />
+        <option value="$PROJECT_DIR$/book-flight-module.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/newtours/tests/BookFlightTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/searchmodule/SearchTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/test/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/newtours/BookFlightTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/newtours/pages/FindFlightPage.java" />
       </list>
     </option>
   </component>
@@ -92,7 +143,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -216,39 +266,20 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="newtours" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumdocker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumdocker" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="searchmodule" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumdocker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumdocker" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="searchmodule" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551110942193" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551182274602" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -256,9 +287,14 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.newtours" />
+      <recent name="com" />
+      <recent name="com.searchmodule" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.newtours.pages" />
     </key>
@@ -279,17 +315,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/udemy/seleniumdocker/book-flight-module.xml">
+  <component name="RunManager" selected="TestNG.C:/udemy/seleniumdocker/search-module.xml">
     <configuration name="BookFlightTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.newtours.tests.*" />
+          <option name="PATTERN" value="com.newtours.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.newtours.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.newtours.tests.BookFlightTest" />
+      <option name="MAIN_CLASS_NAME" value="com.newtours.BookFlightTest" />
       <properties />
       <listeners />
       <method v="2">
@@ -330,12 +366,12 @@
       <module name="udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.searchmodule.tests.*" />
+          <option name="PATTERN" value="com.searchmodule.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.searchmodule.test" />
-      <option name="MAIN_CLASS_NAME" value="com.searchmodule.tests.SearchTest" />
+      <option name="MAIN_CLASS_NAME" value="com.searchmodule.SearchTest" />
       <properties />
       <listeners />
       <method v="2">
@@ -369,8 +405,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/udemy/seleniumdocker/book-flight-module.xml" />
         <item itemvalue="TestNG.C:/udemy/seleniumdocker/search-module.xml" />
+        <item itemvalue="TestNG.C:/udemy/seleniumdocker/book-flight-module.xml" />
         <item itemvalue="TestNG.SearchTest" />
         <item itemvalue="TestNG.C:/udemy/seleniumdocker/testng.xml" />
         <item itemvalue="TestNG.BookFlightTest" />
@@ -388,14 +424,12 @@
       <option name="presentableId" value="Default" />
       <updated>1551101663827</updated>
       <workItem from="1551101665229" duration="6553000" />
-      <workItem from="1551109276619" duration="1562000" />
+      <workItem from="1551109276619" duration="1938000" />
+      <workItem from="1551170805369" duration="3289000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BookFlightTest - 2019.02.25 at 15h 08m 50s.xml">
-      <configuration name="BookFlightTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="BookFlightTest - 2019.02.25 at 15h 12m 37s.xml">
       <configuration name="BookFlightTest" configurationId="TestNG" />
     </history-entry>
@@ -423,15 +457,18 @@
     <history-entry file="C__udemy_seleniumdocker_book-flight-module_xml - 2019.02.25 at 16h 06m 00s.xml">
       <configuration name="C:/udemy/seleniumdocker/book-flight-module.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__udemy_seleniumdocker_book-flight-module_xml - 2019.02.25 at 16h 12m 39s.xml">
+      <configuration name="C:/udemy/seleniumdocker/book-flight-module.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8115000" />
+    <option name="totallyTimeSpent" value="11780000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -440,7 +477,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -476,7 +513,7 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/newtours/tests/BookFlightTest.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/com/newtours/BookFlightTest.java</url>
           <line>35</line>
           <properties />
           <option name="timeStamp" value="2" />
@@ -518,13 +555,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/newtours/pages/FindFlightPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/newtours/pages/FlightConfirmationPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -538,18 +568,6 @@
           <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/newtours/tests/BookFlightTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="20" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2314#2315#0" expanded="true" />
-            <element signature="e#2343#2344#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -576,29 +594,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/searchmodule/tests/SearchTest.java">
+    <entry file="file://$PROJECT_DIR$/search-module.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="374">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/book-flight-module.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        <state relative-caret-position="102">
+          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/search-module.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/searchmodule/SearchTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        <state relative-caret-position="204">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/newtours/BookFlightTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/newtours/pages/FindFlightPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
         </state>
       </provider>
     </entry>

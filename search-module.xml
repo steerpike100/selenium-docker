@@ -5,28 +5,28 @@
     <test name="search-test-java">
         <parameter name="keyword" value="java"/>
         <classes>
-            <class name="com.searchmodule.tests.SearchTest">
+            <class name="com.searchmodule.SearchTest">
             </class>
         </classes>
     </test>
-    <test name="search-test-qa">
+    <test name="search-test-python">
         <parameter name="keyword" value="python"/>
         <classes>
-            <class name="com.searchmodule.tests.SearchTest">
+            <class name="com.searchmodule.SearchTest">
             </class>
         </classes>
     </test>
     <test name="search-test-qa">
-        <parameter name="keyword" value="kubernetes"/>
+        <parameter name="keyword" value="javascript"/>
         <classes>
-            <class name="com.searchmodule.tests.SearchTest">
+            <class name="com.searchmodule.SearchTest">
             </class>
         </classes>
     </test>
-    <test name="search-test-qa">
+    <test name="search-test-docker">
         <parameter name="keyword" value="docker"/>
         <classes>
-            <class name="com.searchmodule.tests.SearchTest">
+            <class name="com.searchmodule.SearchTest">
             </class>
         </classes>
     </test>
