@@ -22,10 +22,13 @@ public class BookFlightTest extends BaseTest {
     }
 
     @Test
-    public void registrationPageTest() {
+    public void registrationPageTest() throws InterruptedException {
         RegistrationPage registrationPage = new RegistrationPage(driver);
         registrationPage.goTo();
         registrationPage.enterUserDetails("spadgehopkins", "docker");
+
+        Thread.sleep(20000);
+
         registrationPage.enterUserCredentials("spadgehopkins", "Zynr2xJ8imByySG");
         registrationPage.submit();
     }
